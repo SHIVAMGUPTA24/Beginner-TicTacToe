@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * Created by prince on 4/6/17.
+ * Created by shivam on 4/6/17.
  */
 public class TicTacToe extends JFrame {
     JPanel p= new JPanel();
